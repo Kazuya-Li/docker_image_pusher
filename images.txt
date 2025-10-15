@@ -2,9 +2,9 @@
 #支持私库
 #node:16
 #mcr.microsoft.com/dotnet/framework/sdk:4.8.1
-#node:16.20.0
+node:20.17.0
 #python:3.6-slim
-gradle:8-jdk17
+#gradle:8-jdk17
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
