@@ -4,7 +4,8 @@
 #mcr.microsoft.com/dotnet/framework/sdk:4.8.1
 #node:25.1.0
 #amazoncorretto:8u402-al2023
-python:3.12-slim
+#python:3.12-slim
+csdnmirror/mineru1.2b:latest
 #gradle:8-jdk17
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
