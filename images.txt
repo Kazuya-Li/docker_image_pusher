@@ -1,10 +1,10 @@
 #openjdk:8
 #支持私库
-#node:16
+node:24.14
 #mcr.microsoft.com/dotnet/framework/sdk:4.8.1
 #node:25.1.0
 #amazoncorretto:8u402-al2023
-python:3.11-slim-bookworm
+#python:3.11-slim-bookworm
 #golang:1.25-alpine
 #csdnmirror/mineru1.2b:latest
 #gradle:8-jdk17
