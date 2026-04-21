@@ -4,7 +4,8 @@
 #mcr.microsoft.com/dotnet/framework/sdk:4.8.1
 #node:25.1.0
 #amazoncorretto:8u402-al2023
-python:3.11-slim
+#python:3.11-slim
+postgres:15-alpine
 #golang:1.25-alpine
 #csdnmirror/mineru1.2b:latest
 #gradle:8-jdk17
