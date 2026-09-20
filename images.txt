@@ -7,9 +7,10 @@
 #python:3.11-slim
 #postgres:15-alpine
 #golang:1.25-alpine
+apache/rocketmq:5.3.0
 #csdnmirror/mineru1.2b:latest
 #gradle:8-jdk17
-mcr.microsoft.com/openjdk/jdk:25-ubuntu
+#mcr.microsoft.com/openjdk/jdk:25-ubuntu
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
