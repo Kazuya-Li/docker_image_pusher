@@ -2,13 +2,13 @@
 #支持私库
 #node:22.22.0
 #mcr.microsoft.com/dotnet/framework/sdk:4.8.1
-#node:25.1.0
+node:20.19.1
 #amazoncorretto:8'u402-al2023
 #python:3.11-slim
 #postgres:15-alpine
 #golang:1.25-alpine
 #apache/rocketmq:5.5.1
-gplane/pnpm:8.3.0-node18
+#gplane/pnpm:8.3.0-node18
 #csdnmirror/mineru1.2b:latest
 #gradle:8-jdk17
 #mcr.microsoft.com/openjdk/jdk:25-ubuntu
